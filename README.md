@@ -12,11 +12,11 @@
 -	[Multiple linear regression](Multiple_Linear_Regression.ipynb) 
 -	[Logistic regression](Logistic_Regression.ipynb) 
 -	N/A: Lasso 
--	Decision trees 
--	Regression trees 
--	Random forests 
+-	[Decision trees](Decision_Trees.ipynb) 
+-	[Regression trees](Regression_Tree.ipynb) 
+-	[Random forests](Random_Forests.ipynb) 
 -	N/A: Gradient boosting 
 -	N/A: Support vector machines 
 -	N/A: Naive Bayes 
--	Crossvalidation   
--	Data cleaning 
+-	[Crossvalidation](Crossvalidation.ipynb)   
+-	[Data cleaning](Data_Cleaning.ipynb) 
